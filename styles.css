@@ -1,0 +1,41 @@
+.news-header {
+  text-align: center;
+}
+
+.logo {
+  margin: 70px 0 40px;
+  display: block;
+}
+
+
+.header-nav ul {
+  list-style: none;
+  margin: 0 0 40px 0;
+}
+
+.header-nav ul li {
+  display: inline;
+}
+
+.header-nav ul li a {
+  text-decoration: none;
+  color: black;
+  font-family: FreeMono, monospace;
+  letter-spacing: 3px;
+  margin: 15px;
+}
+.section-banner {
+
+}
+
+.section-artiles {
+
+}
+
+.section-info {
+
+}
+
+.news-footer {
+
+}

@@ -24,7 +24,7 @@ h1 {
   color: black;
   font-family: FreeMono, monospace;
   letter-spacing: 3px;
-  margin: 15px;
+  margin: 23px;
 }
 
 .section-banner {
@@ -105,9 +105,52 @@ article:hover a {
   font-family: FreeMono, monospace;
 }
 
-.news-footer {}
+.news-footer {
+  background-color: #575757;
+  text-align: center;
+  padding: 0px 0 50px;
+}
+
+.white-logo {
+  margin: 70px 0 40px;
+  padding-top: 30px;
+  display: block;
+}
 
 
 .footer-nav ul li {
   display: inline;
+  letter-spacing: 2px;
+}
+
+.footer-nav ul li a {
+  text-decoration: none;
+  color: white;
+  margin: 23px;
+}
+
+.social-list {
+  margin-top: 60px;
+}
+
+.social-list li {
+  text-align: center;
+  display: inline;
+}
+
+.social-list li img {
+background-color: white;
+margin: 5px;
+}
+
+.inst {
+  padding: 12px;
+}
+
+.fb {
+  padding: 13px 17px;
+}
+
+.tw {
+  padding: 15px 13px;
 }

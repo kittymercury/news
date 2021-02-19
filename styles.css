@@ -50,11 +50,63 @@ h1 {
   line-height: 170%;
 }
 
-.section-artiles {}
+.section-h2 {
+  text-align: center;
+}
 
-.section-info {}
+.section-articles .articles-wrapper article {
+  display: inline-block;
+  width: 31%;
+  margin: 1%;
+}
+
+.section-articles .articles-wrapper article img {
+  width: 100%;
+}
+
+.articles-wrapper {
+  width: 1170px;
+  margin: 0 auto 0 auto;
+}
+
+.article-h2 a {
+  text-decoration: none;
+  color: black;
+}
+
+article:hover a {
+  color: #ff7931;
+}
+
+.section-info {
+  text-align: center;
+}
+
+.wrapper-info {
+  width: 350px;
+  margin: 0 auto 0 auto;
+}
+
+.article-p {
+  margin: 0px 0 60px;
+}
+
+.h2-article {
+  margin-bottom: 5px;
+}
+
+.button {
+  background-color: #ff7931;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 11px 20px;
+  letter-spacing: 2px;
+  font-family: FreeMono, monospace;
+}
 
 .news-footer {}
+
 
 .footer-nav ul li {
   display: inline;
